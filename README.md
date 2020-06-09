@@ -10,6 +10,7 @@
     from skyfield.api import EarthSatellite,load,Topos
     
 # Simple Web App Scanner
+***********************************************************
 
     ██╗    ██╗███████╗██████╗ ███████╗ ██████╗ ██╗  ██╗
     ██║    ██║██╔════╝██╔══██╗██╔════╝██╔═══██╗╚██╗██╔╝
@@ -18,12 +19,12 @@
     ╚███╔███╔╝███████╗██████╔╝██║     ╚██████╔╝██╔╝ ██╗
      ╚══╝╚══╝ ╚══════╝╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═╝ 
  
- #Usage
+# Usage
         Usage: webfox.py [options]
         
- #Options
+# Options
         Options: -h, --help show this help message and exit
         -t TARGET_ADDRESS, --target=TARGET_ADDRESS (Enter domain)
         
- #Example
+# Example
         python webfox.py -t tesla.com
